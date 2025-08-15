@@ -1,37 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# KYC Dashboard - Axis MF
 
-## Getting Started
+A Next.js-based dashboard for KYC (Know Your Customer) management, built for Axis Mutual Fund.
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Responsive layout with sidebar navigation
+- Interactive data visualization using Recharts
+- Dark mode support
+- Mock API integration
+- Loading skeletons for better UX
+- Search functionality
+- Profile dropdown with user information
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Available Scripts
+dev: Runs the app in development mode
 
-## Learn More
+build: Creates an optimized production build
 
-To learn more about Next.js, take a look at the following resources:
+start: Starts the production server
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+lint: Runs ESLint on all files
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+format: Formats code with Prettier
 
-## Deploy on Vercel
+Technologies Used
+Next.js 14 - React framework
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Tailwind CSS - Utility-first CSS framework
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# dashbord
+Recharts - Charting library
+
+React Icons - Icon library
+
+TypeScript - Type checking
