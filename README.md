@@ -34,6 +34,7 @@ Recharts - Charting library
 
 React Icons - Icon library
 
+TypeScript - Type checking
+
 Loom Video:- https://www.loom.com/share/085bfb44c85c4d649e5ecf83e4ba1347?sid=6909790c-63c2-4300-a394-bfcb27f4da29
 
-TypeScript - Type checking
